@@ -1,15 +1,4 @@
-# View more python tutorials on my Youtube and Youku channel!!!
-
-# Youtube video tutorial: https://www.youtube.com/channel/UCdyjiB5H8Pu7aDTNVXTTpcg
-# Youku video tutorial: http://i.youku.com/pythontutorial
-
 # 14 - 3d
-"""
-Please note, this script is for python3+.
-If you are using python2+, please modify it accordingly.
-Tutorial reference:
-http://www.python-course.eu/matplotlib_multiple_figures.php
-"""
 
 import numpy as np
 import matplotlib.pyplot as plt
